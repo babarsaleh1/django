@@ -22,3 +22,4 @@ DATABASES = {
         "PORT": 5432,
     },
 }
+        "ENGINE": "django.db.backends.postgresql.fix",
